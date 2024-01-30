@@ -15,7 +15,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Groovy web 1
+            Groovy web 1.0
           </a>
         </div>
       </div>
